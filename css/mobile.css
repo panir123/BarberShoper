@@ -1,0 +1,121 @@
+.entire ul{
+    display:none;
+}
+#showcase{
+    background: url('../image/idk.png') no-repeat center center/cover;
+    width:29.3rem;
+    height:40.2rem;
+}
+.entire h1{
+ visibility: visible;
+}
+.entire{
+    width:29.3rem;
+
+}
+.rad{
+    background: url('../image/peep.png') no-repeat center center/cover;
+    width:29.3rem;
+    height:500px;
+}
+#about{
+    flex-direction: column;
+}
+.who-text{
+    width:29.3rem;
+    padding-left: 0px;
+    margin-left:0px;
+}
+.something{
+    margin-top: 100px;
+    color: rgb(170, 123, 91);
+    margin-left:100px;
+}
+.item{
+    margin-top:120px;
+    display: flex;
+    flex-direction: column;
+}
+.bmrf{
+    top:200.3rem;
+}
+#price{
+    display: flex;
+    flex-direction: column;
+}
+.frmb{
+    margin-left:0rem;
+    padding-left:0px;
+}
+#showcase .showcase-content{
+    top: 70px;
+    left:9px;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.4);
+}
+#number{
+    top:3950.9px;
+    padding-left:0px;
+  }
+  .h1bx{
+    margin-left:39px;
+  }
+  .day{
+    display:flex;
+    flex-direction: column;
+    margin-left: 5px;
+  }
+  .form{
+    width:469;
+  }
+  .o{
+    margin-left:500px;
+    display:flex;
+    flex-direction: column;
+  }
+  .dayo{
+     background: #ecebeb;
+     padding:1rem 2rem;
+     margin-left: 5px;
+}
+.restart{
+    top:-10rem;
+    margin-left:0px;
+    margin-left:-300px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    visibility: hidden;
+}
+#footer{
+    width:29.3rem;
+}
+.uifo{
+    width:460px;
+}
+.form{
+    visibility: hidden;
+}
+.map{
+    visibility: hidden;
+}
+#ourservice{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
